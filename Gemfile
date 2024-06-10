@@ -60,3 +60,6 @@ group :development do
   # gem "spring"
 end
 
+gem 'devise'
+gem 'ransack', '~> 4.1'
+gem 'pg'
